@@ -42,7 +42,7 @@ public class Employee {
         this.address = address;
     }
 
-    public String getEmail() {
+    public String getEmail(String s) {
         return email;
     }
 
